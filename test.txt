@@ -1,1 +1,2 @@
-Made some changes here from the local repo.
+Made some changes here from the local repo
+Insterted a second line.
